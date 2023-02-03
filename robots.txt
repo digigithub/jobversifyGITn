@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /uat/
+
+Sitemap: https://www.jobversify.com/sitemap.xml
